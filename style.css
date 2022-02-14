@@ -3,8 +3,11 @@
     font-family: Arial;
    }
 
-   h1 {
+h1 {
     text-align: center;
 }
 
-
+.circles {
+    justify-content: center;
+    text-align: center;
+}
